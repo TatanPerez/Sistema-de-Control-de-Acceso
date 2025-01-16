@@ -1,0 +1,3 @@
+C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/4100901-Access_Control_System/build/debug/CMakeFiles/4100901-Access_Control_System.dir
+C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/4100901-Access_Control_System/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/4100901-Access_Control_System/build/debug/CMakeFiles/rebuild_cache.dir
