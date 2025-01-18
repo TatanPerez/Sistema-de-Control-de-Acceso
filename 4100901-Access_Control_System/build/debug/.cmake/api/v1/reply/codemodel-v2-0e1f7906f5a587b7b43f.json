@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4100901-Access_Control_System",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4100901-Access_Control_System::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4100901-Access_Control_System-Debug-be18f48557ef3e05f786.json",
+					"name" : "4100901-Access_Control_System",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/build/debug",
+		"source" : "C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

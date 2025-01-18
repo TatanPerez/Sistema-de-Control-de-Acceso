@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Access_Control_System.dir\\Src\\main.c.obj -c \"C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\main.c\"",
+  "file": "C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\main.c",
+  "output": "CMakeFiles\\4100901-Access_Control_System.dir\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Access_Control_System.dir\\Src\\syscall.c.obj -c \"C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\syscall.c\"",
+  "file": "C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\syscall.c",
+  "output": "CMakeFiles\\4100901-Access_Control_System.dir\\Src\\syscall.c.obj"
+},
+{
+  "directory": "C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Access_Control_System.dir\\Src\\sysmem.c.obj -c \"C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\sysmem.c\"",
+  "file": "C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\sysmem.c",
+  "output": "CMakeFiles\\4100901-Access_Control_System.dir\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Access_Control_System.dir\\Src\\systick.c.obj -c \"C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\systick.c\"",
+  "file": "C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\systick.c",
+  "output": "CMakeFiles\\4100901-Access_Control_System.dir\\Src\\systick.c.obj"
+},
+{
+  "directory": "C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Access_Control_System.dir\\Src\\uart.c.obj -c \"C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\uart.c\"",
+  "file": "C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\uart.c",
+  "output": "CMakeFiles\\4100901-Access_Control_System.dir\\Src\\uart.c.obj"
+},
+{
+  "directory": "C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\4100901-Access_Control_System.dir\\Src\\gpio.c.obj -c \"C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\gpio.c\"",
+  "file": "C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Src\\gpio.c",
+  "output": "CMakeFiles\\4100901-Access_Control_System.dir\\Src\\gpio.c.obj"
+},
+{
+  "directory": "C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"C:/Users/Tatan Perez/Documents/Unal/Tuition 6/Estructuras Computacionales/Sistema-de-Control-de-Acceso/4100901-Access_Control_System\" -g -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles\\4100901-Access_Control_System.dir\\Startup\\startup_stm32l476rgtx.s.obj -c \"C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Startup\\startup_stm32l476rgtx.s\"",
+  "file": "C:\\Users\\Tatan Perez\\Documents\\Unal\\Tuition 6\\Estructuras Computacionales\\Sistema-de-Control-de-Acceso\\4100901-Access_Control_System\\Startup\\startup_stm32l476rgtx.s",
+  "output": "CMakeFiles\\4100901-Access_Control_System.dir\\Startup\\startup_stm32l476rgtx.s.obj"
+}
+]
