@@ -78,9 +78,9 @@ void configure_gpio(void)
 // Emula el comprtamiento de la puerta
 void gpio_set_door_led_state(uint8_t state) {
     if (state) {
-        GPIOA->ODR |= (1 << 4); // encender LED estado puerta
+        GPIOA->ODR |= (1 << 12); // encender LED estado puerta
     } else {
-        GPIOA->ODR &= ~(1 << 4); // apagar LED estado puerta
+        GPIOA->ODR &= ~(1 << 12); // apagar LED estado puerta
     }
 }
 
